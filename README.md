@@ -18,7 +18,7 @@ This Python project is designed for monitoring and reporting process resource me
 - Required Python packages: psutil (install using `pip install psutil`)
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/yourusername/your-repository.git`
+1. Clone the repository: `git clone https://github.com/yourusername/your-repository.git` (https://github.com/AlexandruAndrei-git/ProcessResourceMonitoring)
 2. Navigate to the project directory: `cd your-repository`
 
 ## Usage
