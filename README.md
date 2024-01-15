@@ -19,7 +19,7 @@ This Python project is designed for monitoring and reporting process resource me
 
 ## Installation
 1. Clone the repository: `git clone https://github.com/yourusername/your-repository.git` (https://github.com/AlexandruAndrei-git/ProcessResourceMonitoring)
-2. Navigate to the project directory: `cd your-repository`
+2. Navigate to the project directory: `cd ProcessResourceMonitoring`
 
 ## Usage
 1. Run the main script: `python main.py`
